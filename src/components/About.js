@@ -81,7 +81,7 @@ export default function About() {
               }}
               className="reveal"
             >
-              I'm a Software Engineering graduate from{" "}
+              I&apos;m a Software Engineering graduate from{" "}
               <strong style={{ color: "var(--text-primary)" }}>
                 Addis Ababa Science and Technology University (AASTU)
               </strong>
@@ -97,8 +97,8 @@ export default function About() {
               className="reveal"
             >
               My experience spans full-stack web development, Telegram bot automation,
-              healthcare platforms, and client-facing business systems. I've worked in
-              internship settings at consulting firms and universities, and I've shipped
+              healthcare platforms, and client-facing business systems. I&apos;ve worked in
+              internship settings at consulting firms and universities, and I&apos;ve shipped
               real products used by real people.
             </p>
             <p
@@ -110,7 +110,7 @@ export default function About() {
               }}
               className="reveal"
             >
-              I'm driven by the challenge of transforming complex, real-world problems
+              I&apos;m driven by the challenge of transforming complex, real-world problems
               into clean, elegant, and maintainable software — with a strong eye for
               both technical quality and user experience.
             </p>

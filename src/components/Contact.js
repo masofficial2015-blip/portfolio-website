@@ -68,7 +68,7 @@ export default function Contact() {
         <div style={{ textAlign: "center", marginBottom: "48px" }}>
           <p className="section-label reveal" style={{ justifyContent: "center" }}>
             <MessageSquare size={14} />
-            Let's Connect
+            Let&apos;s Connect
           </p>
           <h2 className="section-title reveal">
             Get in <span className="gradient-text">touch</span>
